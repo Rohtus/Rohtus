@@ -2,8 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me: zholragh@gmail.com
-- 😄 Pronouns: I don't mind, but he/him
+- 📫 How to reach me: 01.guido.landini@gmail.com
 - ⚡ Fun fact: I love astrophysics
 
 <!---
